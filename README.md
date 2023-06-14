@@ -2,6 +2,7 @@
 ##Conexiones de sensores
 
 ##Base de datos
+
 ###Configuración
 En nuestro proyecto hicimos uso del servicio de Google de Firebase, enseguida se muestra la configuración de la misma.
 
